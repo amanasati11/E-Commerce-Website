@@ -11,7 +11,7 @@
 ## Workflow
 ![1_lAMsvtB6afHwTQYCNM1xvw](https://user-images.githubusercontent.com/69810375/105146430-ff4bb000-5b25-11eb-8843-5576b723e10f.jpg)
 
-## Technology Stack
+## Technology Used
 - Python
 - Django
 - Django REST Framework
