@@ -15,6 +15,7 @@
 - Python
 - Django
 - Django REST Framework
+- JavaScript
 - React
 - Bootstrap
 
