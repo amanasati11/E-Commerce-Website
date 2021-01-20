@@ -1,5 +1,5 @@
 # E-Commerce-Website
-## A Full-stack application with payment gateway integration in Django and React.
+### A Full-stack application with payment gateway integration in Django and React.
 ![django-react-header](https://user-images.githubusercontent.com/69810375/105145074-3a4ce400-5b24-11eb-84a7-8dda84db3e32.png)
 
 ## Features
