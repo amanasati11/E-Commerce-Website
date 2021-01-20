@@ -19,7 +19,7 @@
 - React
 - Bootstrap
 
-### Running the project
+## Running the project
 - Open a command line window and go to the project's directory.
 - `pip install -r requirements.txt && pip install -r dev-requirements.txt`
 - `npm install`
@@ -28,3 +28,21 @@
 - `workon theprojectname` or `source theprojectname/bin/activate` depending on if you are using virtualenvwrapper or just virtualenv.
 - Go to the `backend` directory.
 - `python manage.py runserver`
+
+## Project Structure (Backend)
+C:.
+├───api
+│   ├───category
+│   │   └───migrations
+│   ├───migrations
+│   ├───order
+│   │   └───migrations
+│   ├───payment
+│   │   └───migrations
+│   ├───product
+│   │   └───migrations
+│   └───user
+│       └───migrations
+├───ecom
+└───media
+    └───images
